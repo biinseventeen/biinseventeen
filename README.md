@@ -8,6 +8,7 @@ I'm passionate about building intelligent systems and pursuing a career as an **
 
 - Natural Language Processing (NLP)
 - Agentic AI
+- ...and more when I finish these two!
 
 ## 💻 Tech Stack
 
