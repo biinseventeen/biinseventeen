@@ -17,6 +17,6 @@ I'm passionate about building intelligent systems and pursuing a career as an **
 
 ## 📫 Contact
 
-[![HCMUT Email](https://img.shields.io/badge/HCMUT_Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thinh.dinhquoc@hcmut.edu.vn)
+You can reach me via my HCMUT email: thinh.dinhquoc@hcmut.edu.vn
 
-[![Personal Email](https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinhquocthinh174@gmail.com)
+or my personal email: dinhquocthinh174@gmail.com
