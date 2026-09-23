@@ -13,7 +13,7 @@ I'm passionate about building intelligent systems and pursuing a career as an **
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,ts,git" />
 </p>
 
 ## 📫 Contact
